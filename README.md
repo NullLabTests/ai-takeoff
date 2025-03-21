@@ -2,7 +2,7 @@
 
 A 3D interactive visualization of different AI takeoff scenarios, from slow gradual progress to rapid intelligence explosion.
 
-![AI Takeoff Visualization Screenshot](./public/screenshot.png)
+![AI Takeoff Visualization Screenshot](https://i.imgur.com/Tptki3G.png)
 
 ## Features
 
