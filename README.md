@@ -17,7 +17,7 @@ A 3D interactive visualization of different AI takeoff scenarios, from slow grad
 
 ## Live Demo
 
-Visit the live demo at: [https://ai-takeoff-visualization.vercel.app](https://ai-takeoff-visualization.vercel.app)
+Visit the live demo at: [https://ai-takeoff-visualization.vercel.app](https://v0-3-d-model-request.vercel.app/)
 
 ## Technologies Used
 
